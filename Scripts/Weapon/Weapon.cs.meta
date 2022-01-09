@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: a47d536136c5a7d418a23d9ce0393b1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _fpsCam: {instanceID: 0}
+  - renderer: {instanceID: 0}
+  - gunFire: {instanceID: 0}
+  - gunReload: {instanceID: 0}
+  - gunAnimator: {instanceID: 0}
+  - muzzleFlash: {instanceID: 0}
+  - bulletEject: {instanceID: 0}
+  - terrainImpactEffect: {fileID: 1594825139344855637, guid: 3fb38f663b927e64187f7338909e4d9a,
+      type: 3}
+  - bodyImpactEffect: {fileID: 1000010191825552, guid: 83e55d3418297934fab882559d009285,
+      type: 3}
+  - terrainBulletHole: {fileID: 8693226465867501360, guid: 0cf390074e55a3945b1a54e6ab091d29,
+      type: 3}
+  - bodyBulletHole: {fileID: 8693226465867501360, guid: 229160036aa4e6544b8d4dd01d7d686f,
+      type: 3}
+  - weaponTrail: {fileID: 3936442975948177065, guid: f84f369d4b4350b4f8d0d3636b93dd28,
+      type: 3}
+  - RecoilPositionTranform: {instanceID: 0}
+  - RecoilRotationTranform: {instanceID: 0}
+  - gunBarrel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
